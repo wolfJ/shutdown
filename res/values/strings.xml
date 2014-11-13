@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">shutdown</string>
+    <string name="title_command_detail">Command Detail</string>
+
+</resources>
